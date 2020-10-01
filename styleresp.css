@@ -1,0 +1,221 @@
+body{
+	background-color: black;
+}
+main{
+	background-image: url("https://i.imgur.com/nNAMqU1.jpg");
+	height: 650px;
+	padding: 0px 30px 0px 30px;
+	font-family: sans-serif;
+	flex-flow: wrap;	
+}
+.top{
+	display: flex;
+	justify-content: space-between;
+	flex-flow: wrap;
+}
+#logo{
+	width: 150px;
+	height: auto;
+	padding-top: 2px;
+	margin-top: 0px;		
+}
+#sign{
+	background-color: #E50914;
+	text-decoration: none;
+	color: white;
+	width: 52px;
+	height: 20px;
+	text-align: center;
+	display: inline;
+	margin-top: 20px;
+	margin-right: 17px;
+	font-size: 1.10rem;
+	padding: 3px 8px 3px 8px;
+	cursor: pointer;
+	border-style: solid;
+	border-color: red;
+	font-weight: 400;
+	font-size:16px;	
+}
+.centre{
+	display: flex;
+	justify-content: center;
+	color: white;
+}
+#div{
+	position: relative;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-top: 5%;
+	padding-bottom: 75px;
+}
+#lineone{
+	font-size: 48px;
+	margin-top: 2px;
+	margin-bottom: 20px;
+}
+#linetwo{
+	font-size: 30px;
+	margin-top: 2px;
+	color: white;
+	margin-left: 180px;
+	margin-right: 180px;
+	padding-left: 20px;
+}
+#input{
+	display: flex;
+	justify-content: center;
+	width: 400px;
+	height: 41px;
+	padding: 10px 10px 0px 10px;
+}
+#last{
+	position: absolute;
+	padding-top: 50px;
+}
+#button{
+	text-decoration: none;
+	color: white;
+	background-color: #E50914;
+	height: 55px;
+	text-align: 
+	border:none;
+	border-color: #E50914;
+	border-style: solid;
+	width: 250px;
+	font-size: 1.5555rem;
+	font-stretch: semi-expanded;
+	font-family: sans-serif;
+	cursor: pointer;
+}
+.hr{
+	color: grey;
+	width: 100%;
+	height: 5px;
+	background-color: #303030;
+}
+.parttwo{
+	color: white;
+	padding: 30px 65px 15px 65px;
+	display: flex;
+	justify-content: center;
+	opacity: 100%;
+	font-family: sans-serif;
+}
+.p{
+	padding-left: 70px;
+	font-size: 25px;
+	padding: 50px 60px;
+	font-family: sans-serif;
+}
+#tv{
+	padding: 0px 70px;
+}
+#download{
+	padding-right: 40px;
+	font-size: 30px;
+	font-family: sans-serif;
+	padding-top: 30px;
+	padding-left: 150px;
+}
+#mobileimg{
+	padding-bottom: 50px;
+}
+#gif{
+	padding-left: 100px;
+	float: right;
+	padding-right:75px;
+}
+#dev{
+	padding-right: 70px;
+}
+.p::first-line{
+	font-size: 50px;
+	padding-bottom: 20px;
+}
+#faq{
+	color: white;
+	font-family: sans-serif;
+	display: flex;
+	justify-content: center;
+	padding-top: 40px;
+	font-size: 40px;
+}
+.faq{
+	color: white;
+	cursor: pointer;
+	font-size: 30px;
+	background-color: #303030;
+	padding: 1px 30px;
+	line-height: 2;
+	margin: 2px 150px;
+	margin-bottom: 9px;
+}
+#faqpadd{
+	padding-bottom: 80px;
+}
+#solution{
+	padding: 5px;
+}
+#input2{
+	display: flex;
+	justify-content: center;
+	width: 400px;
+	height: 41px;
+	padding: 10px 10px 0px 10px;
+}
+#button2{
+	text-decoration: none;
+	color: white;
+	background-color: #E50914;
+	height: 55px;
+	text-align: 
+	border:none;
+	border-color: #E50914;
+	border-style: solid;
+	width: 250px;
+	font-size: 1.5555rem;
+	font-stretch: semi-expanded;
+	font-family: sans-serif;
+}
+#last2{
+	position: absolute;
+	padding-top: 50px;
+}
+footer{
+	padding: 0px 800px 10px 100px;
+}
+footer > p{
+	color: #757575;
+}
+#ques{
+	padding-top: 50px;
+	color: #757575;
+	margin-left: 300px;
+}
+#phone{
+	color: #757575;
+	text-decoration: none;
+	padding-top: 66.5px;
+}
+.list{
+	list-style: none;
+	color: #757575;
+	font-family: sans-serif;
+	margin-left: 50px;
+}
+.link{
+	font-size: 12.3px;
+	text-decoration: none;
+	color: #757575;
+	padding-right: 10px;
+}
+#section{
+	display: flex;
+	justify-content: space-between;
+	margin-left: 470px;
+	margin-right: 70px;
+}
+span{
+	float: right;
+}
